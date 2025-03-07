@@ -1,0 +1,27 @@
+@font-face {
+    font-family: groovy;
+    src: url(Lostar.ttf);
+}
+body {
+  background-image: url('colorful.jpg');
+}
+h1{
+text-align: center;
+color: #582fee ;
+font-family: groovy;
+font-size: 3rem;
+letter-spacing: 0.5rem;
+text-transform: uppercase;
+text-shadow: 4px, 4px, #582fee;
+}
+img{
+  display: block;
+  margin: auto;
+  width: 25%;
+}
+p{
+text-align: center;
+font-family: groovy;
+color: #2afa00;
+font-size: x-large;
+}
