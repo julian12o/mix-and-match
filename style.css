@@ -13,6 +13,7 @@ font-size: 3rem;
 letter-spacing: 0.5rem;
 text-transform: uppercase;
 text-shadow: 4px, 4px, #582fee;
+-webkit-text-stroke: 1px #2afa00 ;
 }
 img{
   display: block;
@@ -22,10 +23,19 @@ img{
 p{
 text-align: center;
 font-family: groovy;
+letter-spacing: 0.2rem;
 color: #2afa00;
 font-size: x-large;
+-webkit-text-stroke: 1px #582fee ;
 }
 .custom-orange-color {
   color: #F58B30;
 }
 
+h2{
+  text-align: center;
+  text-transform: capitalize;
+  -webkit-text-stroke: 2px #0b9dff;
+  font-size: 3rem;
+  
+}
